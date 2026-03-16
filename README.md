@@ -1,15 +1,9 @@
 # 🎓 IoT-Based Automated Exam Hall and Seat Allotment System
 
-> **Semester 3 MCA Project**  
+> **Semester 4 MCA Project**  
 > Department of Computer Applications  
 
----
-
-## 👩‍💻 Team Members
-- **Nandhu Krishna**  
-- **Abhimanyu S**  
-- **Adithya A J**  
-- **Shahala Thasni**
+--
 
 ---
 
